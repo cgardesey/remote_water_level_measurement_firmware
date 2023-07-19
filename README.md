@@ -1,6 +1,7 @@
 # Arduino Project: Remote water Level Monitoring
 
-This is an Arduino project that demonstrates remote monitoring of water level in a tank. The project uses the Arduino programming language and can be customised for similar projects
+This is an Arduino project that demonstrates remote monitoring of water level in a tank. The hardware sends dtata to an [android app](https://github.com/cgardesey/RemoteWaterMonitoring)
+The project uses the Arduino programming language and can be customised for similar projects
 
 ## Table of Contents
 - [Requirements](#requirements)
