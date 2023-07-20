@@ -29,7 +29,8 @@ To run this project, you will need the following components:
 ## Hardware Setup
 Setup the the hardware as shown below:
 
-![image](https://github.com/cgardesey/smart_security_firmware/assets/10109354/3b127681-51dc-4175-b936-d415535cf182)
+![image](https://github.com/cgardesey/remote_water_level_measurement_firmware/assets/10109354/36a18bdd-a06c-41b9-bfdd-7a11466c3d7b)
+
 
 
 ## Software Setup
