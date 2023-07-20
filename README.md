@@ -1,6 +1,6 @@
 # Arduino Project: Remote water Level Monitoring
 
-This is an Arduino project that demonstrates remote monitoring of water level in a tank. The hardware sends dtata to an [android app](https://github.com/cgardesey/RemoteWaterMonitoring)
+This is an Arduino project that demonstrates remote monitoring of water level in a tank. The hardware sends data to an [android app](https://github.com/cgardesey/RemoteWaterMonitoring)
 The project uses the Arduino programming language and can be customised for similar projects
 
 ## Table of Contents
@@ -13,19 +13,13 @@ The project uses the Arduino programming language and can be customised for simi
 
 ## Requirements
 To run this project, you will need the following components:
-- Two Arduino board (e.g., Arduino Uno or Arduino Nano)
-  The two boards will communicate serially. One board will serve as the master and the other will serve as the slave
-- RTC
-- 20x4 LED
-- 4x4 Keypad
-- Sim800 or sim900
-- PIR's
-- 120db buzzers
-- Switch (Toggle, push button or slide switch)
-- Terminal blocks (optional)
-- 12V 5A power adapter (with stable output)
-- Flexible wire calbe
-- Packaging (Junction box, 3D moulded plastic box, wooden box etc)
+- Arduino nano
+- Tp4056 BMS
+- Mt1306 boost converter
+- Water Proof Ultrasonic sensor
+- SIM800l gsm module
+- Male/female headers
+- Solar charge controller module
 - Resistors
 - Transistors
 - Capacitors
